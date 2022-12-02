@@ -1,0 +1,19 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  background-color: skyblue;
+}
+
+.wrapper {
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  gap: '2rem';
+  margin: 0 auto;
+  align-items: center;
+}
+
+.winlose-wrapper {
+  font-size: '2rem';
+  text-align: center;
+}

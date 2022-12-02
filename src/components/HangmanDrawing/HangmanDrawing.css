@@ -1,0 +1,9 @@
+.wrapper {
+  position: relative;
+}
+
+.vertical-stand {
+  height: 10px;
+  width: 250px;
+  background: black;
+}
